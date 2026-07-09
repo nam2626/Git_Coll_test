@@ -1,4 +1,5 @@
 export default () => {
+  console.log("테스트");
   console.log("ㅋㅋㅋㅋㅋ");
   return <>
     <h2>로그인 페이지</h2>
